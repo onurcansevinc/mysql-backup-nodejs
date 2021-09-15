@@ -1,0 +1,9 @@
+{
+    "databases": [{
+        "host": "",
+        "user": "",
+        "password": "",
+        "database": "",
+        "foldername": "folder"
+    }]
+}
